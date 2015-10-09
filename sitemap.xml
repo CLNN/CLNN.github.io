@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.baidu.com/about/index.html</loc>
+    <lastmod>2015-10-09T12:29:05.992Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.baidu.com/2015/10/09/Second/</loc>
     <lastmod>2015-10-09T11:18:35.318Z</lastmod>
   </url>
@@ -12,12 +17,7 @@
   </url>
   
   <url>
-    <loc>http://www.baidu.com/assets/demo/pre_css3_demo/demo.html</loc>
-    <lastmod>2015-07-06T11:40:08.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.baidu.com/assets/demo/my_news_reader/js/tagConfig.js</loc>
+    <loc>http://www.baidu.com/assets/demo/gift/js/shake.js</loc>
     <lastmod>2015-07-06T11:40:08.000Z</lastmod>
   </url>
   
@@ -57,17 +57,17 @@
   </url>
   
   <url>
-    <loc>http://www.baidu.com/assets/demo/border1px.html</loc>
+    <loc>http://www.baidu.com/assets/demo/hack_demo.html</loc>
     <lastmod>2015-07-06T11:40:08.000Z</lastmod>
   </url>
   
   <url>
-    <loc>http://www.baidu.com/assets/demo/gift/js/zepto.min.js</loc>
+    <loc>http://www.baidu.com/assets/demo/pre_css3_demo/demo.html</loc>
     <lastmod>2015-07-06T11:40:08.000Z</lastmod>
   </url>
   
   <url>
-    <loc>http://www.baidu.com/assets/demo/gift/js/shake.js</loc>
+    <loc>http://www.baidu.com/assets/demo/my_news_reader/js/tagConfig.js</loc>
     <lastmod>2015-07-06T11:40:08.000Z</lastmod>
   </url>
   
@@ -112,7 +112,12 @@
   </url>
   
   <url>
-    <loc>http://www.baidu.com/assets/demo/hack_demo.html</loc>
+    <loc>http://www.baidu.com/assets/demo/border1px.html</loc>
+    <lastmod>2015-07-06T11:40:08.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.baidu.com/assets/demo/gift/js/zepto.min.js</loc>
     <lastmod>2015-07-06T11:40:08.000Z</lastmod>
   </url>
   
