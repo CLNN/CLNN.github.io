@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="/"/>
-  <updated>2015-10-09T11:18:35.318Z</updated>
+  <updated>2015-10-12T08:26:39.323Z</updated>
   <id>/</id>
   
   <author>
@@ -15,45 +15,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Second]]></title>
-    <link href="/2015/10/09/Second/"/>
-    <id>/2015/10/09/Second/</id>
-    <published>2015-10-09T11:16:39.000Z</published>
-    <updated>2015-10-09T11:18:35.318Z</updated>
-    <content type="html"></content>
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="优化" scheme="/tags/%E4%BC%98%E5%8C%96/"/>
-    
-      <category term="安装" scheme="/tags/%E5%AE%89%E8%A3%85/"/>
-    
-      <category term="配置" scheme="/tags/%E9%85%8D%E7%BD%AE/"/>
-    
-      <category term="Hexo" scheme="/categories/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="/2015/10/08/hello-world/"/>
-    <id>/2015/10/08/hello-world/</id>
-    <published>2015-10-08T14:08:12.708Z</published>
-    <updated>2015-10-08T14:08:12.708Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <title><![CDATA[大学毕业的所思与所感]]></title>
+    <link href="/2015/10/12/%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E7%9A%84%E6%89%80%E6%80%9D%E4%B8%8E%E6%89%80%E6%84%9F/"/>
+    <id>/2015/10/12/大学毕业的所思与所感/</id>
+    <published>2015-10-12T08:15:27.000Z</published>
+    <updated>2015-10-12T08:26:39.323Z</updated>
+    <content type="html"><![CDATA[<h3 id="简介">简介</h3><p>目前就读于河北省秦皇岛市海港区的燕山大学，本科是电气工程及其自动化，虽然这个专业在其他学生的眼里这个专业有很多人相进都进不来但是我依然没有一种优越感以及一份成就感。下面简单介绍一下我大学的前两年的经历以及未来的一个打算。<br><a id="more"></a></p>
+<h3 id="高中">高中</h3><p>在高中的时期，表现一直很好，但是自己认识到自己有很多的不足，但是家里的情况自己确实改变不了什么，再加上高中条件的限制，所以相比其他学校的学生来说接触的东西少了太多。我相信也会有很多和我一样的人。但是不要怕，我和你们一样，我们只有加倍的努力，学习他们的经验，吸收他们的知识，这样我们就可以少走一些弯路，快速夯实知识。好了言归正传，在那个暑假的期间，自己是疯狂的玩游戏，当然当时只会玩CF，相信大家现在差不多都会玩LOL、Dota吧大学我对游戏没有什么兴趣，可以很好的控制自己，自己的电脑上有的就是程序和学习资料。这个我想应该归结于自己高中吧，当时很喜欢玩游戏，一到周六总是忍不住去网吧包宿，打一晚上游戏，然后第二天再精神的去上课，当然上课还是很认真的，只要老师讲的比较有趣，当然一直是满血状态上课的。通常包宿之后都是二天才会显现出来很累的状态，我也不例外，晚上一睡觉的时候就怕自己第二天起不来，真的被我猜中啦，有好多次都起不来，不去上早自习，或者早操。或者学校实验班统一进行的补课，这段经历在目前我看来是一种快乐，在临近高考的2个星期，当时学校查的很严，网吧什么的基本不让去，但是还是憋不住，就和同学偷偷的跳墙出校去打游戏，但是这个是有限制的，最多玩到2点左右就回来睡觉。大部分这个时间都在紧张的复习中，但是我却在打游戏。所以我们的班主任就来找我谈话，加上自己上高中处对象，老师一直对我很宽松，（班级比较牛的人）大笑  所以老师对我们管理的很松。好多老师对我的认可度很大，当时自己的不足自己也是很清楚的，大意，马虎，我记得学校的第一次模拟统考，我是我们班级唯一的一个做完理综试卷的一个人。但是成绩不是令我满意。每次模拟考试自己总结下来就是自己的知识点掌握的不扎实，再加上自己的马虎对题目不认真考虑。但是我对自己依然充满着信心。所以高考的时候我依然用很出色的成绩证明了我依然可以考得上一本。（数学成绩130多分，当时有两道选择题是蒙的，不是不会，是看到数太麻烦不想算了，大笑结果没对大哭）就这样自己的高中时代过来了，现在想起来是一个很快乐的时间，听别人说起自己的高中的时候是哪个苦逼，我觉得这点我还是很自豪的。说的有点多，大家可以当做一个激励自己的故事来读。下面就进入现在所处的这个大学阶段啦，相信会有你想象不到的东西发生的。</p>
+<h3 id="大学之大一">大学之大一</h3><p>在大学的时期，在军训的时候我记忆的很深刻，当时宿舍人每天军训完了都直接休息，我不是这个样子，那个时候我就在自学高等数学。当时听到很多的师兄再说高等数学，线性代数等等很难，我心里就有点害怕了，虽说自己的数学在高中时候很好，但是还是有点害怕，毕竟大学里面的授课方式和原来的有所不同。自己学习自己做题，遇到不会的就问过一次学姐。（我们院的第一）。不过我不满意她的回答，我认为没有回答对我想要的，或许当时自己的还不是很理解吧，或者她忘记了这个内容。毕竟人的不可能全都有看一遍就永远都记住啦。军训很快的就过去啦，当时自己很好学（从高中就可以看得出来），终于要接触到我的大学老师啦，怀着激动的心情去上了第一节高数课，老师很棒，板书很整齐。第一节满人，出现了好多的占座情况。（导致后来的我每次都坐在第一排，后面就知道啦！！）军训完了面对的就是自己的社团啦，相信大家都不会陌生，大学的社团丰富多彩，有很多展现自己的机会，当然也会遇到社会上的勾心斗角，我就比较讨厌这个啦，所以我就拒绝了加入我们学校的学生会，（听说他们很装逼大笑） 面对大学社团的选择我提出一些我个人的建议: 1) 你要明确你要的是什么，想要拓展自己的什么方面的技能2）社团不要过多，虽说可以获得很多经验3）把握好自己，不要让自己被动的行事，有自己的想法。针对以上的种种我就加入了一个社团那就是我们学校比较牛的社团—-科协。在这里遇到很多的牛人，教会了我很多的东西，我一直比较感谢的就是我第一个部长–悦哥。大学10.1期间好多同学迫不及待的都回家啦，但是我却苦逼的自己在学校写着所谓的世纪杯，这个不算什么啦，还有就是我有了自己的一台笔记本电脑，宿舍里面第一个先有的，很兴奋。于是就开始学起来了我们社团的主打方向—-单片机。有很多人会和我一样都是从底层接触的51单片机，单片机的入门嘛，所以就听了部长的要求，买了一块51单片机开发板，有很多的外设:DS1302 液晶屏 1602 AD等等 ，自此之后就踏上了学习51的路途，因为我们社团有一个考核是通过51考核的所以就要好好学习，先后经历过51单片机大赛(学校举办)、秦皇岛市康泰杯大赛还有各种小社团的比赛。慢慢的从一个科协的小部员成长到一个研发部（就是那个通过考核的部门）的部长。这段过程遇到了很多要好的朋友，虽说当时交流还不是很多，但是也打下了那一年的飞思卡尔。大一本想来了之后双休学位，但是得知学校不允许，被迫放弃只好认真的接触我们自己的这个专业。大一励志要成为学院的第一也由于一次的论文让我破碎了（自己原封不动写的，被我同学抄了之后，我只有60分，同学却90分，很不公平，很不满意）至此放弃了成为学霸的梦想，不过老师课上讲的知识依旧比学霸吸收的快，不过课下没有及时复习，一段时间就快忘光了，考试不及时复习，最后成绩也就可以看得过去，不过依旧有闪光点的，有关数学方面的依旧很高分，就这样大一的时间就这样慢慢的过去啦，转眼到了大一的寒假，也就是这个寒假加上我们上的大学基础计算机课，我在这个时间才认识到IT，首先认识到的是C++，其次认识到的是Java，所以寒假期间自己在家在网上查找了一下关于这方面的资料，当初自己完全是个菜鸟，不过现在自己感觉起来依旧很菜，自己当时不会找资源，就在淘宝上买了一个视频教程，别说当时的这份教程买的还真挺对，里面的老师影响到我很多地方。那就是我们的龙哥—–传智播客任小龙老师。当时联系了一下淘宝上的那个卖家加了他的qq，首先他给我java环境配置的链接我自己配置了一下，当然当时不知道视频教程里面有这些东西，所以就自己尝试百度找了一些关于配置的教程，当然在很多人的眼里认为这个东西很简单，但是当时完全是个菜鸟，刚刚接触电脑没有多长时间，再加上自己每台电脑按照网上的教程进行配置的时候或多或少的都会发生一些意向不到的事情，当时的我很幸运，我没有遇到，很成功的配置好了Java开发环境，获得了那个人的许可和一丝表扬，当时我很不解，和你们一样我认为这个东西比较好配置，但是也没有多问什么！就这样在家里开始了自己的java学习之路。首先接触的都是一些编程语言的基础知识—变量、基本类型、条件语句等等，我发现每个语言总是喜欢打上Hello World 这句话，慢慢的被IT圈成为“潜规则”。随着自己的深入了解自己懂的知识慢慢的增加，自己对IT这个行业越来越的喜欢，自己也慢慢的远离自己的本专业，虽然这个专业我也很喜欢，但是我更喜欢IT，喜欢敲代码的感觉，喜欢了解他的原理，当时怀着这份好奇心，自己慢慢的探索世界，哈哈，说的有点大。这样不紧不慢的迎来了大一的下学期，下学期里为了迎接下一批的学弟学妹们的到来自己要好好的学习知识，提高自己的见识，于是我又开始自己开学了Java，期间接触了Html+css+div，然后又接触了PS+Flash，当然这些东西不可能完全的掌握，但是自己也掌握个大概，也算是入门了吧，但是看的视频教程好想是是传智播客的李静的这个人，这个人确实很厉害，毕竟开发了很长的一段时间了嘛。随着自己的知识增加，javase也慢慢的接近了尾声，接口、类、继承、集合、反射，慢慢的都学习完了，下面就开始进军javaweb，接触了各种的服务器Tomcat，还有后来的Apache以及各种数据库SQL、SQL server Oracle 以及后来的MongoDB等等，这些东西都接触了一点，至少环境的搭建还是自己尝试过的，记忆最深的就是搭建Oracle12g的时候，当时自己的系统是windows8 + 64位，但是这个软件要求的是32位，当然兼容性也是可以的，确实可以正常安装，但是在配置sql developer的时候出现了好多的问题，一直连接不上东西，可能当时自己还是太菜了，自己现在在配置的时候估计就没有当时的那么的情况在发生了。大一就在学习知识的过程中过去啦，这个期间的作品是自己制作的51单片机开发板，还有自己制作的简单的网页，当时是自己敲代码写的，所说也知道DW的好用，但是一直没用，用的就是notepad++，在很多人看起来可能有点得不偿失了</p>
+<h3 id="大学之大二">大学之大二</h3><p>到了大二的时候，迎来了新一届的大一，我们当了学长，我开始有了一些自己的想法，自己知道自己的不足，知道自己缺少的东西太多了，所以不想让他们在经历我的这个阶段，我开始给他们培训，讲解东西。慢慢的我找到了自己喜欢的人当时自己说过不想处对象，但是不知道怎么的啦，可能自己太孤单了吧大笑 大二期间基本都在自己的培训中过来的，这个期间我也加深了一下我自己的知识理解，不能告诉别人不正确的东西，哪怕自己不知道，也不能胡说。大二期间由于学校要参加全国大学生的飞思卡尔大赛，于是我和我当初在社团结交的小伙伴们开始了组队，我们选择的是光电队，采用的是直立也就是双轮的。这个期间真的是痛不欲生啊，占用自己的时间很多，自己就放下了IT一年，我们也就在准备比赛中度过了自己的这断时间。最终我们成功参加了由北理工举办的第10届飞思卡尔大赛，由于比赛出现了一些问题，与国赛交错而过。当时就是冲着国赛去的，结果很不让我们满意！！！最终通过补赛取得了优秀奖，总算没有白白参加，不过也是很有纪念意义的，自己收获了友谊。大二期间不想介绍什么了，就到了大三阶段，也就是现在我所处的阶段。</p>
+<h3 id="大学之大三">大学之大三</h3><p>大三时期，就目前接触了很多，比如WAMP的搭建，以及PHP的编程，还有微信开发，有了自己的微信公众号的自己的SAE公众平台，为了完成我们的国家级的大创，目前都在准备中，博客中已经有了很多的分类，日后会完善的，坚持写博客。</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    <![CDATA[<h3 id="简介">简介</h3><p>目前就读于河北省秦皇岛市海港区的燕山大学，本科是电气工程及其自动化，虽然这个专业在其他学生的眼里这个专业有很多人相进都进不来但是我依然没有一种优越感以及一份成就感。下面简单介绍一下我大学的前两年的经历以及未来的一个打算。<br>]]>
+    
     </summary>
+    
+      <category term="C" scheme="/tags/C/"/>
+    
+      <category term="Java" scheme="/tags/Java/"/>
+    
+      <category term="单片机" scheme="/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
+    
+      <category term="大学" scheme="/tags/%E5%A4%A7%E5%AD%A6/"/>
+    
+      <category term="博客简介" scheme="/categories/%E5%8D%9A%E5%AE%A2%E7%AE%80%E4%BB%8B/"/>
     
   </entry>
   
